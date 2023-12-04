@@ -1,2 +1,2 @@
 # first-repositary
-this is my git repositary
+this is my first git repositary
